@@ -48,7 +48,7 @@ Best Case: Aradığımız sayının dizinin en sonunda olması.
 4. [2,3,4,5,6,9,8,15,7]
 ```
 
-![Patika Dev](https://app.patika.dev/)
+[Patika Dev](https://app.patika.dev/)
  
  
  
